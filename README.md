@@ -22,7 +22,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport </p>
 
 <h3> ~ Live Website ~ </h3>
-
+https://uhfrankie.github.io/challenge2/
 
 <h4> ~ Screenshots ~ </h4>
 
