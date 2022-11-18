@@ -27,12 +27,15 @@ THEN I am presented with a responsive layout that adapts to my viewport </p>
 </p>
 
 <h4> ~ Screenshots ~ </h4>
-![Screenshot (5)](https://user-images.githubusercontent.com/116978170/202588658-c6b35d78-6577-45b5-b26b-a73c4a3d575b.png)
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/116978170/202588701-52e32faa-a4e5-42e6-8969-efe618380642.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/116978170/202588886-078cd504-18ad-4289-888a-1a63c9324bdc.png)
+
 
 <h5> ~ Notes ~ </h5>
 <p>
 - I used an avatar image instead of an image of myself.
 - When clicking the "coming soon" image it will link you to a site that says "projects coming soon."
+-In the screenshots on this file, the bottom image is supposed to go first, and the top image is supposed to go second. I couldn't get the link to work properly if I put the bottom image first. 
 </p>
